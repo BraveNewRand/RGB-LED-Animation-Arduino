@@ -2,7 +2,6 @@
 
 An **Arduino** project to control an **RGB LED** with smooth color transitions using **PWM (Pulse Width Modulation)**.
 
-![Project Setup](Project_Images/setup.jpg)
 
 ## 📜 Description
 This project demonstrates how to control an **RGB LED** using **Arduino Uno**, smoothly transitioning between colors. The project explores:
